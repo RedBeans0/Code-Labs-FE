@@ -23,7 +23,7 @@ import { ShoppingListService } from './shopping-list/shopping-list.service';
     RecipeDetailComponent,
     RecipeItemComponent,
     ShoppingListComponent,
-    //ShoppingEditComponent,
+    ShoppingEditComponent,
     DropdownDirective
   ],
   imports: [
